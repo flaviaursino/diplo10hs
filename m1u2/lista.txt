@@ -2,3 +2,9 @@ galles
 mandarinas
 papas
 lechuga
+-----
+farmarcia
+-------
+libreria
+----
+carniceria
